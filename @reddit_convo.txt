@@ -1,0 +1,1069 @@
+
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="We are a different kind of web design agency - we hand code all our sites without using clunky page builders. With our superior websites, SEO, and Google Ads team we can help grow your small business and get more online leads." name="description"><meta content="" name="keywords"><link href="https://oakharborwebdesigns.com/" rel="canonical"><meta content="telephone=no" name="format-detection"><meta content="Small Business Web Designer | Oak Harbor Web Designs | $0 Down $175 Per Month" property="og:title"><meta content="We are a different kind of web design agency - we hand code all our sites without using clunky page builders. With our superior websites, SEO, and Google Ads team we can help grow your small business and get more online leads." property="og:description"><meta content="website" property="og:type"><meta content="https://oakharborwebdesigns.com/" property="og:url"><meta content="/assets/images/banner.jpg" property="og:image"><meta content="/assets/images/banner.jpg" property="og:image:secure_url"><link href="/assets/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"><link href="/assets/favicons/favicon-32x32.png?v1" rel="icon" type="image/png" sizes="32x32"><link href="/assets/favicons/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16"><link href="/assets/favicons/site.webmanifest" rel="manifest"><meta content="#da532c" name="msapplication-TileColor"><meta content="#ffffff" name="theme-color"><link href="/assets/svgs/logo-white.svg" rel="preload" as="image"><link href="/assets/images/satellite.svg" rel="preload" as="image"><link href="/assets/fonts/oswald-v53-latin-600.woff2" rel="preload" as="font" crossorigin type="font/woff2"><link href="/assets/fonts/yellowtail-v22-latin-regular.woff2" rel="preload" as="font" crossorigin type="font/woff2"><link href="" rel="preload" as="image"><link href="/assets/css/root.css" rel="stylesheet"><link href="/assets/css/dark.css" rel="stylesheet"><script defer src="/assets/js/dark.js"></script><script defer src="/assets/js/nav.js"></script><script>!function(t,e){var n;t.rdt||((n=t.rdt=function(){n.sendEvent?n.sendEvent.apply(n,arguments):n.callQueue.push(arguments)}).callQueue=[],(t=e.createElement("script")).src="https://www.redditstatic.com/ads/pixel.js",t.async=!0,(e=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,e))}(window,document),rdt("init","a2_ftiq30rg4a92"),rdt("track","PageVisit")</script><script defer src="https://plausible.io/js/script.js" data-domain="oakharborwebdesigns.com"></script><link href="/assets/images/laptop-m.webp" rel="preload" as="image"><link href="/assets/css/critical.css" rel="stylesheet"><link href="/assets/css/local.css" rel="stylesheet" media="print" onload='this.media="all",this.onload=null'><noscript><link href="/assets/css/local.css" rel="stylesheet"></noscript><script type="application/ld+json">{
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Oak Harbor Web Designs",
+            "telephone": "(219) 576-2539",
+            "email": "ohwdinfo@gmail.com",
+            "url": "https://oakharborwebdesigns.com/"
+        }</script><title>Small Business Web Designer | Oak Harbor Web Designs | $0 Down $175 Per Month</title></head><body><a class="skip" href="#main" aria-label="skip to main content">Click To Skip To Main Content</a><header id="cs-navigation"><div class="cs-container"><a class="cs-logo" href="/" aria-label="back to home"><img alt="logo" decoding="async" height="43" src="/assets/images/logo.svg" width="197" aria-hidden="true" class="cs-default"> <img alt="logo" decoding="async" height="43" src="/assets/images/logo-white.svg" width="197" aria-hidden="true" class="cs-onscroll" loading="lazy"><div class="neon" aria-hidden="true" aria-label="after dark"><span>A</span> <span>f</span> <span>t</span> <span>e</span> <span>r</span> <span>D</span> <span>a</span> <span>r</span> <span>k</span></div></a><nav class="cs-nav" role="navigation"><button aria-label="mobile menu toggle" class="cs-toggle"><div class="cs-box" aria-hidden="true"><span class="cs-line cs-line1" aria-hidden="true"></span> <span class="cs-line cs-line2" aria-hidden="true"></span> <span class="cs-line cs-line3" aria-hidden="true"></span></div></button><div class="cs-ul-wrapper"><ul class="cs-ul" id="cs-expanded" aria-expanded="false"><li class="cs-li"><a class="cs-li-link cs-active" href="/">Home</a></li><li class="cs-li cs-dropdown" tabindex="0"><span class="cs-li-link">About Us <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon"></span><ul class="cs-drop-ul"><li class="cs-drop-li"><a class="cs-li-link cs-drop-link" href="/about/">About Us</a></li><li class="cs-drop-li"><a class="cs-li-link cs-drop-link" href="/faq/">Faq</a></li><li class="cs-drop-li"><a class="cs-li-link cs-drop-link" href="/reviews/">Reviews</a></li></ul></li><li class="cs-li cs-dropdown" tabindex="0"><span class="cs-li-link">Services <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon"></span><ul class="cs-drop-ul"><li class="cs-drop-li"><a class="cs-li-link cs-drop-link" href="/web-design/">Web Design</a></li><li class="cs-drop-li"><a class="cs-li-link cs-drop-link" href="/seo-services/">SEO</a></li><li class="cs-drop-li"><a class="cs-li-link cs-drop-link" href="/google-ppc-services/">Google PPC Ads</a></li><li class="cs-drop-li"><a class="cs-li-link cs-drop-link" href="/white-label-partnerships/">White Label Partnerships</a></li></ul></li><li class="cs-li cs-dropdown" tabindex="0"><span class="cs-li-link cs-dropdown-toggle">Top Locations <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon"></span><ul class="cs-drop-ul"><li class="cs-drop-li cs-drop3-main"><span class="cs-li-link cs-drop-link">Washington <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon"></span><ul class="cs-drop3"><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/anacortes/small-business-web-designer/">Anacortes</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/burlington/small-business-web-designer/">Burlington</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/coupeville/small-business-web-designer/">Coupeville</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/everett/small-business-web-designer/">Everett</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/freeland/small-business-web-designer/">Freeland</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/langley/small-business-web-designer/">Langley</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/marysville/small-business-web-designer/">Marysville</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/web-design/">Oak Harbor</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/port-townsend/small-business-web-designer/">Port Townsend</a></li></ul></li><li class="cs-drop-li cs-drop3-main"><span class="cs-li-link cs-drop-link">Indiana <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon"></span><ul class="cs-drop3 cs3"><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/chesterton/small-business-web-designer/">Chesterton</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/crown-point/small-business-web-designer/">Crown Point</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/fort-wayne/small-business-web-designer/">Fort Wayne</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/griffith/small-business-web-designer/">Griffith</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/hammond/small-business-web-designer/">Hammond</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/highland/small-business-web-designer/">Highland</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/hobart/small-business-web-designer/">Hobart</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/lafayette/small-business-web-designer/">lafayette</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/laporte/small-business-web-designer/">La Porte</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/merrillville/small-business-web-designer/">Merrillville</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/michigan-city/small-business-web-designer/">Michigan City</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/munster/small-business-web-designer/">Munster</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/portage/small-business-web-designer/">Portage</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/schererville/small-business-web-designer/">Schererville</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/south-bend/small-business-web-designer/">South Bend</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/valparaiso/small-business-web-designer/">Valparaiso</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/warsaw/small-business-web-designer/">Warsaw</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/whiting/small-business-web-designer/">Whiting</a></li></ul></li><li class="cs-drop-li cs-drop3-main"><span class="cs-li-link cs-drop-link">Illinois <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon"></span><ul class="cs-drop3"><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/lansing/small-business-web-designer/">Lansing</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/chicago/small-business-web-designer/">Chicago</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/chicago-heights/small-business-web-designer/">Chicago Heights</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/oak-park/small-business-web-designer/">Oak Park</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/south-holland/small-business-web-designer/">South Holland</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/orland-park/small-business-web-designer/">Orland Park</a></li><li class="cs-drop-li3"><a class="cs-li-link cs-drop-link cs-drop-link3" href="/rockford/small-business-web-designer/">Rockford</a></li></ul></li></ul></li><li class="cs-li"><a class="cs-li-link" href="/pricing/">Pricing</a></li><li class="cs-li"><a class="cs-li-link" href="/blog/">Blog</a></li><li class="cs-li"><a class="cs-li-link" href="/contact/">Contact</a></li></ul></div></nav><a class="cs-button-solid" href="/contact">Get Started</a><button aria-label="dark mode toggle" id="dark-mode-toggle"><img alt="moon" decoding="async" height="15" src="/assets/svgs/moon.svg" width="15" aria-hidden="true" class="cs-moon"> <img alt="sun" decoding="async" height="15" src="/assets/svgs/sun.svg" width="15" aria-hidden="true" class="cs-sun"></button></div></header><main id="main"><section id="hero-855"><div class="cs-container"><div class="cs-content"><span class="cs-topper">Custom Designs, Custom Coded</span><h1 class="cs-title">Small Business Web Designer</h1><p class="cs-text">No page builders or WordPress. We offer 100% hand-coded websites with superior results starting at $175/mo as well as Google Ads and SEO services.</p><div class="cs-button-box"><a class="cs-button-solid cs-secondary" href="/contact/">Get Started</a> <a class="cs-button-solid cs-button-transparent" href="/about/">About Us</a></div></div><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/laptop-m.webp"><source media="(min-width: 601px)" srcset="/assets/images/laptop.png"><img alt="a laptop showing Mako Pool Restorations" decoding="async" height="493" src="/assets/images/laptop.png" width="936" loading="eager"></picture></div><svg class="cs-wave desktop" fill="none" preserveAspectRatio="none" viewbox="0 0 1920 500" xmlns="http://www.w3.org/2000/svg"><path d="M251.463 378.438C126.937 315.555 47.343 253.833 0 209.721V501h1920V0c-356.51 157.88-717.07 312.544-986.268 407.584-269.195 95.039-457.636 84.299-682.269-29.146Z" fill="#fff"/></svg> <svg class="cs-wave mobile" fill="none" preserveAspectRatio="none" viewbox="0 0 1920 760" xmlns="http://www.w3.org/2000/svg" height="990" width="1920"><g clip-path="url(#a)"><path d="M251.463 378.438C126.937 315.555 47.343 253.833 0 209.721V501h1920V0c-356.51 157.88-717.07 312.544-986.268 407.584-269.195 95.039-457.636 84.299-682.269-29.146Z" fill="#fff"/></g><path d="M0 498h1920v492H0z" fill="#fff"/><defs><clipPath id="a"><path d="M0 0h1920v501H0z" fill="#fff"/></clipPath></defs></svg> <img alt="ufo" decoding="async" height="15" src="/assets/images/hero-dark.svg" width="15" aria-hidden="true" class="cs-wave cs-dark desktop" loading="lazy"> <img alt="ufo" decoding="async" height="15" src="/assets/images/mobile-trees.svg" width="15" aria-hidden="true" class="cs-wave cs-dark mobile" loading="lazy"><div class="universe universe1"><span class="shooting-star"></span> <span class="shooting-star shooting-star2"></span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><div class="universe universe2"><img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><div class="universe universe3"><img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><div class="cs-ufo-wrapper"><div class="cs-ufo"><img alt="ufo" decoding="async" height="15" src="/assets/images/ufo.svg" width="15" aria-hidden="true" class="cs-alien" loading="lazy"> <img alt="ufo" decoding="async" height="15" src="/assets/images/tractor-beam.svg" width="15" aria-hidden="true" class="cs-beam" loading="lazy"></div></div></section><section id="services-966"><div class="cs-container"><div class="cs-content"><span class="cs-topper">What We Do</span><h2 class="cs-title">Never Worry About Your Website Ever Again</h2><p class="cs-text">At Oak Harbor Web Designs, we specialize in small business web design and development for clients anywhere in the US and Canada. Every line of code is written by hand to ensure the best performance and make Google happy, which helps bring in more customers to your site and bring more revenue to your business. We also manage the edits for you and will never leave you high and dry. Our goal is to create long term relationships with our clients and see them grow over time.</p></div><ul class="cs-card-group"><li class="cs-item"><a class="cs-link" href="/web-design/"><picture class="cs-icon-wrapper"><img alt="icon" decoding="async" height="40" src="/assets/svgs/i1.svg" width="40" class="cs-icon" loading="lazy"></picture><h3 class="cs-h3">Mobile First Design</h3><p class="cs-item-text">We start building your site for mobile devices first making sure the code is as lean and optimized with no bloated waste and makes the site even more responsive.</p><span class="cs-fake-link">Get Started</span><div class="cs-background" aria-hidden="true"><div class="universe universe1"><span class="shooting-star"></span> <span class="shooting-star shooting-star2"></span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><img alt="tree graphics" decoding="async" height="1200" src="/assets/images/trees-m.webp" width="1920" aria-hidden="true" class="cs-graphic" loading="lazy"></div></a></li><li class="cs-item"><a class="cs-link" href="/web-design/"><picture class="cs-icon-wrapper"><img alt="icon" decoding="async" height="40" src="/assets/svgs/i2.svg" width="40" class="cs-icon" loading="lazy"></picture><h3 class="cs-h3">Fully Responsive</h3><p class="cs-item-text">Your website will fit all mobile screens sizes, tablets, and desktop sizes so visitors can access your site from anywhere and see a beautiful site no matter the screen size.</p><span class="cs-fake-link">Get Started</span><div class="cs-background" aria-hidden="true"><div class="universe universe1"><span class="shooting-star"></span> <span class="shooting-star shooting-star2"></span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><img alt="tree graphics" decoding="async" height="1200" src="/assets/images/trees-m.webp" width="1920" aria-hidden="true" class="cs-graphic" loading="lazy"></div></a></li><li class="cs-item"><a class="cs-link" href="/web-design/"><picture class="cs-icon-wrapper"><img alt="icon" decoding="async" height="40" src="/assets/svgs/i3.svg" width="40" class="cs-icon" loading="lazy"></picture><h3 class="cs-h3">Optimized Page Speed</h3><p class="cs-item-text">If your site takes more than 3 seconds to load you can lose up to 50% your traffic because it took too long. Our sites load 1 second or less ensuring everyone that visits your site reaches it.</p><span class="cs-fake-link">More About Page Speed</span><div class="cs-background" aria-hidden="true"><div class="universe universe1"><span class="shooting-star"></span> <span class="shooting-star shooting-star2"></span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><img alt="tree graphics" decoding="async" height="1200" src="/assets/images/trees-m.webp" width="1920" aria-hidden="true" class="cs-graphic" loading="lazy"></div></a></li><li class="cs-item"><a class="cs-link" href="/seo-services/"><picture class="cs-icon-wrapper"><img alt="icon" decoding="async" height="40" src="/assets/svgs/i4.svg" width="40" class="cs-icon" loading="lazy"></picture><h3 class="cs-h3">SEO Services</h3><p class="cs-item-text">We have an in-house SEO specialist who understands local SEO and how to rank in your local market with plenty of case studies to show results and monthly reports.</p><span class="cs-fake-link">More About SEO</span><div class="cs-background" aria-hidden="true"><div class="universe universe1"><span class="shooting-star"></span> <span class="shooting-star shooting-star2"></span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><img alt="tree graphics" decoding="async" height="1200" src="/assets/images/trees-m.webp" width="1920" aria-hidden="true" class="cs-graphic" loading="lazy"></div></a></li><li class="cs-item"><a class="cs-link" href="/google-ppc-services/"><picture class="cs-icon-wrapper"><img alt="icon" decoding="async" height="40" src="/assets/svgs/i5.svg" width="40" class="cs-icon" loading="lazy"></picture><h3 class="cs-h3">Google PPC Ads</h3><p class="cs-item-text">We also offer Pay-Per-Click Google ads creation and management with our Google Ads expert who can create effective ad campaigns to maximize your ROI.</p><span class="cs-fake-link">More About Ads</span><div class="cs-background" aria-hidden="true"><div class="universe universe1"><span class="shooting-star"></span> <span class="shooting-star shooting-star2"></span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><img alt="tree graphics" decoding="async" height="1200" src="/assets/images/trees-m.webp" width="1920" aria-hidden="true" class="cs-graphic" loading="lazy"></div></a></li><li class="cs-item"><a class="cs-link" href="/about/"><picture class="cs-icon-wrapper"><img alt="icon" decoding="async" height="40" src="/assets/svgs/i6.svg" width="40" class="cs-icon" loading="lazy"></picture><h3 class="cs-h3">Based In The USA</h3><p class="cs-item-text">We do not hire cheap overseas developers. We are mostly based in the USA with team members in Washington, Texas, Pennsylvania, and the UK and work 100% remote from home.</p><span class="cs-fake-link">More About Us</span><div class="cs-background" aria-hidden="true"><div class="universe universe1"><span class="shooting-star"></span> <span class="shooting-star shooting-star2"></span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1"></span> <span class="star star2"></span> <span class="star star3"></span> <span class="star star4"></span> <span class="star star5"></span> <span class="star star6"></span> <span class="star star7"></span> <span class="star star8"></span> <span class="star star9"></span> <span class="star star10"></span> <span class="star star11"></span> <span class="star star12"></span> <span class="star star13"></span></div><img alt="tree graphics" decoding="async" height="1200" src="/assets/images/trees-m.webp" width="1920" aria-hidden="true" class="cs-graphic" loading="lazy"></div></a></li></ul><a class="cs-button-solid" href="/contact/">Call Us Today</a></div></section><section id="sbs-1362"><div class="cs-container"><div class="cs-image-group"><picture class="cs-background"><source media="(max-width: 600px)" srcset="/assets/images/ryan-home-273908b22f3747a08de373acd0addb4b.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/ryan-home-f9bdbd92075d6cf4eb9cb811f555ac2c.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/ryan-home-e2fc2bf8dcd498c7a2cd30b67790f8f0.jpeg" type="image/jpeg"><source media="(max-width: 1023px)" srcset="/assets/images/ryan-home-3511ac7701752a191d21db145a947688.avif" type="image/avif"><source media="(max-width: 1023px)" srcset="/assets/images/ryan-home-d22cc69e305c6058dc9d67a88e4c916b.webp" type="image/webp"><source media="(max-width: 1023px)" srcset="/assets/images/ryan-home-f31a5d47430267fd9180af5273bfac9d.jpeg" type="image/jpeg"><source media="(min-width: 1023px)" srcset="/assets/images/ryan-home-6fa7705a2933aa7e8f44db023f3ce343.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/ryan-home-a3cac3ec9bae7d38f5bee4cf7843c28d.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/ryan-home-d42e22f0cd66ca17001e868f5e13b6a2.jpeg" type="image/jpeg"><img alt="Ryan Postell, Owner and Lead Developer at Oak Harbor Web Designs" decoding="async" height="878" src="/assets/images/ryan-home-d42e22f0cd66ca17001e868f5e13b6a2.jpeg" width="586" aria-hidden="true" loading="lazy"></picture><div class="cs-box"><div class="cs-flex"><span class="cs-name">Ryan Postell </span><span class="cs-job">Owner, Developer</span></div><img alt="people" decoding="async" height="60" src="/assets/svgs/tree.svg" width="60" class="cs-box-icon" loading="lazy"></div></div><div class="cs-content"><span class="cs-topper">What We Offer</span><h2 class="cs-title">Websites Starting At $0 Down And $175 Per Month</h2><p class="cs-text">We offer $0 down for a standard 5 page small business website. If you need more than that then we have to do custom pricing based on the scope of work, number of additional pages, and time involved. <b>12 month minimum contract</b>. Includes design, development, hosting, unlimited edits, 24/7 support, and lifetime updates.</p><ul class="cs-card-group" id="list-1597"><li class="cs-item"><div class="wrapper"><img alt="check" decoding="async" height="24" src="/assets/svgs/check-blue.svg" width="24" aria-hidden="true" class="cs-check" loading="lazy"><h3 class="cs-h3">100% Secure</h3></div><p class="cs-item-text">Our sites are just static HTML and CSS code, meaning there’s literally nothing that can be hacked.</p></li><li class="cs-item"><div class="wrapper"><img alt="check" decoding="async" height="24" src="/assets/svgs/check-blue.svg" width="24" aria-hidden="true" class="cs-check" loading="lazy"><h3 class="cs-h3">Custom Designed</h3></div><p class="cs-item-text">Our designs are made by an in-house design team, which allows us to make anything we want.</p></li><li class="cs-item"><div class="wrapper"><img alt="check" decoding="async" height="24" src="/assets/svgs/check-blue.svg" width="24" aria-hidden="true" class="cs-check" loading="lazy"><h3 class="cs-h3">100 PageSpeed Scores</h3></div><p class="cs-item-text">Our sites have zero bloat, zero waste, and built with purpose so we get perfect 98-100/100 speed scores with Google.</p></li><li class="cs-item"><div class="wrapper"><img alt="check" decoding="async" height="24" src="/assets/svgs/check-blue.svg" width="24" aria-hidden="true" class="cs-check" loading="lazy"><h3 class="cs-h3">Money Back Guarantee</h3></div><p class="cs-item-text">If we can’t design something you like, you get your money back and the contract is cancelled. We stand by our work.</p></li><li class="cs-item"><div class="wrapper"><img alt="check" decoding="async" height="24" src="/assets/svgs/check-blue.svg" width="24" aria-hidden="true" class="cs-check" loading="lazy"><h3 class="cs-h3">Unmatched Support</h3></div><p class="cs-item-text">Call or text us anytime, no phone trees or robots. When you call us you get me - the owner and developer.</p></li><li class="cs-item"><div class="wrapper"><img alt="check" decoding="async" height="24" src="/assets/svgs/check-blue.svg" width="24" aria-hidden="true" class="cs-check" loading="lazy"><h3 class="cs-h3">We Know SEO</h3></div><p class="cs-item-text">No snake oil, no tricks, no lies. We explain very clearly what SEO is, how it works, and what we can do to get you ranking.</p></li></ul><a class="cs-button-solid" href="/contact/">Schedule a Call</a></div></div><div class="cs-bubbles" aria-hidden="true"></div></section><section id="portfolio"><div class="cs-container"><div class="cs-content"><div class="cs-flex"><span class="cs-topper">Portfolio</span><h2 class="cs-title">Some Of The Work We’ve Done Over The Years</h2></div><p class="cs-text">We have worked with clients all over the US and Canada for home services contractors, restaurants, consulting agencies, start ups, dermatologists, doctors, accountants, and more. No matter what your business is, we can build a website that is effective, beautiful, performant, and tailored to your industry.</p></div><ul class="cs-card-group"><li class="cs-item"><a class="cs-link" href="https://www.valleyconstructionsupply.com/"><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/port1-52b7e91d6e83606a7badc413e5423430.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/port1-088b4717b6a4bae45b0517a5a6a7d3d7.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/port1-6e33e5b695f87903379560e94d189c00.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/port1-5c0a1cf1860642f154f8fd4ccde2eea8.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/port1-fb0c4f5c66a5fe0055555ab07dd31e92.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/port1-10f4326b2a4948532acb0923030aac56.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/port1-740bdf8558705e17495bacc0d8b17991.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/port1-56f1d35955c4bc447c2be7c465cc2068.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/port1-be3f4cc7290de003f5eed93ea16c9364.jpeg" type="image/jpeg"><img alt="A computer screen showing a website preview" decoding="async" height="270" src="/assets/images/port1-be3f4cc7290de003f5eed93ea16c9364.jpeg" width="413" aria-hidden="true" loading="lazy"></picture><h3 class="cs-h3">Valley Construction Supply</h3><p class="cs-item-text">Valley Construction Supply is the largest privately held construction supply company in Seattle, WA for over 35 years and has been a happy client for over 5 years.</p><span class="cs-button-solid">Visit Website</span></a></li><li class="cs-item"><a class="cs-link" href="https://www.drvictoriachan.com/" target="_blank"><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/port2-79021c7b418369d834b302c1172f3823.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/port2-fcf4e342f08c683c161f84896beac6d9.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/port2-7fc335d9248da66b92c1eec85e86fa9f.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/port2-b88bc08a2cbdb234c52e5e1bb2ac0068.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/port2-a50d0afd0119fe18fa2027300e768010.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/port2-7f30e579b5a0af8012ca58561b449781.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/port2-df13d24d6be9a15a5ae10a7b22856312.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/port2-a70fac520df2eba850005274830720db.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/port2-8a0e680787c6a40e5e281e27f2e8a8a7.jpeg" type="image/jpeg"><img alt="A computer screen showing a website preview" decoding="async" height="270" src="/assets/images/port2-8a0e680787c6a40e5e281e27f2e8a8a7.jpeg" width="413" aria-hidden="true" loading="lazy"></picture><h3 class="cs-h3">Dr. Victoria Chan</h3><p class="cs-item-text">Dr. Victoria Chan is a Naturopathic Doctor based in California who offers a holistic approach to mental health. This was a VERY custom design that came out amazing.</p><span class="cs-button-solid">Visit Website</span></a></li><li class="cs-item"><a class="cs-link" href="https://casablancabakery.com/es/" target="_blank"><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/port3-2c1369e3ac4fa9381b4a715e1b1cd7d1.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/port3-233df4082bac3194fb839a4110190389.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/port3-2d16165179294ce90e18774cb96fc483.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/port3-7884fb7606f20cda15da777c1ba8f020.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/port3-9e8426f1d7c62b057aa27817102d4798.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/port3-f4131974bebd0d770dd13eb7b2133a95.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/port3-739f2128fb39223bf0a90917b3226ca2.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/port3-5467c840d04c42a2f078ab74fc0c501c.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/port3-c19771ca73a0fc4dd8dd555de97a7541.jpeg" type="image/jpeg"><img alt="A computer screen showing a website preview" decoding="async" height="270" src="/assets/images/port3-c19771ca73a0fc4dd8dd555de97a7541.jpeg" width="413" aria-hidden="true" loading="lazy"></picture><h3 class="cs-h3">Casablanca Bakery</h3><p class="cs-item-text">For Casablanca, we had a much larger scope of work where we built them a fully editable menu with a custom CMS to edit it, and a multi-language toggle.</p><span class="cs-button-solid">Visit Website</span></a></li></ul></div></section><section id="sbs-1640"><div class="cs-container"><div class="cs-stats-group"><ul class="cs-stats"><li class="cs-stat"><span class="cs-number">100%</span> <span class="cs-desc">Satisfaction Guaranteed</span></li><li class="cs-stat"><span class="cs-number">100</span> <span class="cs-desc">Page Speed Scores</span></li><li class="cs-stat"><span class="cs-number">5/5</span> <span class="cs-desc">Google Reviews</span></li></ul><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/pagespeed-ab527f0f08d1ecc03d847a4031fd2a93.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/pagespeed-217e125f20ed428bc59567251ed28fb6.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/pagespeed-350dde780014084dbfd5e9bd83125410.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/pagespeed-9def2c561e2cf5e88db0d19be07f0bb8.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/pagespeed-cb9aa2e945c5f4d1d8efacc275015dbb.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/pagespeed-1e4ac36c6e425f5624998a3d49efe803.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/pagespeed-9def2c561e2cf5e88db0d19be07f0bb8.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/pagespeed-cb9aa2e945c5f4d1d8efacc275015dbb.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/pagespeed-1e4ac36c6e425f5624998a3d49efe803.jpeg" type="image/jpeg"><img alt="a screenshot showing perfect Google pagespeed scores" decoding="async" height="461" src="/assets/images/pagespeed-1e4ac36c6e425f5624998a3d49efe803.jpeg" width="630" aria-hidden="true" loading="lazy"></picture></div><div class="cs-content"><span class="cs-topper">Performance</span><h2 class="cs-title">We Build <span class="cs-color">Better</span> Websites That Perform</h2><p class="cs-text">When it comes to website load times, not very many can get the Google PageSpeed scores that we get with each and every site. Test your website load times with Google PageSpeed Insights and see what your current site is scoring right now.</p><ul class="cs-ul" id="list-823"><li class="cs-li"><img alt="icon" decoding="async" height="40" src="/assets/svgs/stat1.svg" width="40" aria-hidden="true" class="cs-icon" loading="lazy"> Better load times means more traffic and more site conversions over time.</li><li class="cs-li"><img alt="icon" decoding="async" height="40" src="/assets/svgs/stat2.svg" width="40" aria-hidden="true" class="cs-icon" loading="lazy"> Faster websites can help improve SEO and your Google ads performance.</li><li class="cs-li"><img alt="icon" decoding="async" height="40" src="/assets/svgs/stat3.svg" width="40" aria-hidden="true" class="cs-icon" loading="lazy"> Our sites load instantly in under 1 second or less, which leads to a better user experience and conversions.</li></ul><a class="cs-button-solid cs-secondary" href="/contact/">Get Started Today</a></div></div></section><section id="video-548"><div class="cs-container"><div class="cs-content"><span class="cs-topper">In The News</span><h2 class="cs-title">Featured In CompTIA’s Documentary About Inspiring Stories in Tech</h2></div><a class="cs-big-link" href="https://explore.comptia.org/individual-videos/ryan-postell" aria-label="Open Ryan's CompTIA talk in a new browser window" target="_blank"><picture class="cs-background"><source media="(max-width: 600px)" srcset="/assets/images/comptia-1de87598d6f03021b2b29fc9f1f33eb3.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/comptia-dd1fa42aea9927eaf2490640b6550776.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/comptia-02a86311e14dca4e7e4064c7629c9c57.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/comptia-5012f1e61345365c11fc4cc2d2b1224a.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/comptia-5cd4fbe85efc7a0fd5b4d174a530679d.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/comptia-c48eec6a88c3f166b4476ec340515b80.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/comptia-b3926973b7b1457a4a8036f5db17102f.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/comptia-4879aeeb14793da68d610078b0cdfaaf.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/comptia-453b1b0d4a66520eb31d9b798a7b7fdf.jpeg" type="image/jpeg"><img alt="A screenshot of Ryan Postell's CompTIA interview" decoding="async" height="603" src="/assets/images/comptia-1b9b356b2ef595b636b5625f7cfb54da.jpeg" width="1280" aria-hidden="true" loading="lazy"></picture><img alt="play icon" decoding="async" height="110" src="/assets/svgs/play.svg" width="110" aria-hidden="true" class="cs-link-icon" loading="lazy"></a></div></section><section id="pricing-1690"><div class="cs-container"><div class="cs-content"><div class="cs-flex"><span class="cs-topper">Our Pricing</span><h2 class="cs-title">Pricing Packages For Every Budget</h2></div><a class="cs-button-solid" href="/contact/">Get Started</a></div><ul class="cs-card-group"><li class="cs-item"><span class="cs-package">Lump Sum</span><ul class="cs-ul"><li class="cs-li">Design And Development <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">$25/mo Hosting <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">$100 fee Per Page after 5 <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">+$50/mo Unlimited Edits Add-on <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">+$250 To Add A Blog <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li cs-disabled">24/7 Support <img alt="checkmark" decoding="async" height="18" src="/assets/images/nope.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li cs-disabled">Lifetime Updates <img alt="checkmark" decoding="async" height="18" src="/assets/images/nope.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li></ul><span class="cs-price">$3800 <span class="cs-duration">+$25/mo Hosting</span> </span><a class="cs-button-solid" href="/contact/">Get Started</a></li><li class="cs-item cs-popular"><span class="cs-package">Monthly</span><ul class="cs-ul"><li class="cs-li">Design And Development <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">Includes Hosting <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">$100 fee Per Page After 5 <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">+$250 To Add A Blog <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">Unlimited Edits <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">24/7 Support <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">Lifetime Updates <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li></ul><span class="cs-price">$175 <span class="cs-duration">Per Month</span> </span><a class="cs-button-solid cs-secondary" href="/contact/">Get Started</a></li><li class="cs-item"><span class="cs-package">Ecommerce</span><ul class="cs-ul"><li class="cs-li">Custom Shopify Store <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">Configure Any And All Apps <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">Integrated Shipping <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">Shopify Tutorial Walkthrough <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li">Fully Editable In Shopify CMS <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li cs-disabled">+$50/mo Unlimited Edits <img alt="checkmark" decoding="async" height="18" src="/assets/images/nope.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li><li class="cs-li cs-disabled">24/7 Support <img alt="checkmark" decoding="async" height="18" src="/assets/images/nope.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy"></li></ul><span class="cs-price">$8k <span class="cs-duration">Starting</span> </span><a class="cs-button-solid" href="/contact/">Get Started</a></li></ul></div></section><section id="blog-1347"><div class="cs-container"><div class="cs-content"><span class="cs-topper">our Blog</span><h2 class="cs-title">Latest News And Articles</h2></div><ul class="cs-card-group"><li class="cs-item"><a class="cs-link" href="/blog/wordpress-bans-wp-engine/"><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/wp-b355e52edae84c82112234623d2ad908.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/wp-aa1410de2094fd51c1550ffa6112b943.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/wp-36f419cb493843d405999657f6ef1459.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/wp-52d4023a2973d4732484d6a93a12f9cd.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/wp-990567b963108c6d0cdfc85e567c764f.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/wp-b12433e9e176e46d08c1d3c9b45239e6.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/wp-ce2f10b40fe593209149b0a0f52b9f1c.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/wp-c12209a6f5051d7773600cfdadf07f0d.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/wp-b58c03010e3e974038d3b24c4b4292ea.jpeg" type="image/jpeg"><img alt="wordpress logo" decoding="async" height="320" src="/assets/images/wp-b58c03010e3e974038d3b24c4b4292ea.jpeg" width="416" aria-hidden="true" loading="lazy"></picture><div class="cs-item-text"><h3 class="cs-h3">WordPress Bans WP Engine And Impacts Millions Of Websites<picture class="cs-icon-wrapper"><img alt="arrow" decoding="async" height="374" src="/assets/images/agency-arrow-upper-right.svg" width="413" aria-hidden="true" class="cs-icon"></picture></h3><div class="cs-info"><span class="cs-date"><img alt="calendar" decoding="async" height="374" src="/assets/svgs/calendar.svg" width="413" aria-hidden="true" class="cs-date-icon"> Sep 27, 2024 </span><span class="cs-category">Tutorial</span></div></div></a></li><li class="cs-item"><a class="cs-link" href="/blog/how-to-add-dark-mode-to-your-website/"><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/dark-mode-f51755892201cbf3000f4c5beba314e8.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/dark-mode-6dd1bacd254e98277c0cd3415264be7c.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/dark-mode-a4bfb57ed0f3d3f3306c1192b7c5e0ee.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/dark-mode-c7be92ab69052d0eb1813c9065463584.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/dark-mode-da11030db8319324e8ac7473e6e2dd79.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/dark-mode-d98489783f24002ac3739202f3c0b6b2.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/dark-mode-1438539b96e9762812a16aa5ecb409f5.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/dark-mode-330fff904d2bdd33c4fd8e168f6cfe1d.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/dark-mode-8beb19ab9bbf0d7b59f9d13ebf4edda8.jpeg" type="image/jpeg"><img alt="A dark night" decoding="async" height="320" src="/assets/images/dark-mode-8beb19ab9bbf0d7b59f9d13ebf4edda8.jpeg" width="416" aria-hidden="true" loading="lazy"></picture><div class="cs-item-text"><h3 class="cs-h3">How to add dark mode to your website? Here is the code you need!<picture class="cs-icon-wrapper"><img alt="arrow" decoding="async" height="374" src="/assets/images/agency-arrow-upper-right.svg" width="413" aria-hidden="true" class="cs-icon"></picture></h3><div class="cs-info"><span class="cs-date"><img alt="calendar" decoding="async" height="374" src="/assets/svgs/calendar.svg" width="413" aria-hidden="true" class="cs-date-icon"> Sep 14, 2024 </span><span class="cs-category">Tutorial</span></div></div></a></li><li class="cs-item"><a class="cs-link" href="/blog/how-to-optimize-a-website/"><picture class="cs-picture"><source media="(max-width: 600px)" srcset="/assets/images/speed-8d5cc0ff8e2fd47ee3bcee1f42e1f243.avif" type="image/avif"><source media="(max-width: 600px)" srcset="/assets/images/speed-c0af6e14845d974fba1b8034d18156da.webp" type="image/webp"><source media="(max-width: 600px)" srcset="/assets/images/speed-ca4c6ebd0cc183f75cf8a81e27b60d0a.jpeg" type="image/jpeg"><source media="(max-width: 1024px)" srcset="/assets/images/speed-8e4a22f0bb823aab2ebca86b795bd6eb.avif" type="image/avif"><source media="(max-width: 1024px)" srcset="/assets/images/speed-e702d6f98882b6eef0dfcc99c28a4bf3.webp" type="image/webp"><source media="(max-width: 1024px)" srcset="/assets/images/speed-79710fac8587e2aaf8d481af763a8fc9.jpeg" type="image/jpeg"><source media="(min-width: 1024px)" srcset="/assets/images/speed-b2a79c472a17e70e0ca5d981668535c9.avif" type="image/avif"><source media="(min-width: 1024px)" srcset="/assets/images/speed-19e32d8f838051f29c1a8c34f976e687.webp" type="image/webp"><source media="(min-width: 1024px)" srcset="/assets/images/speed-fd31c1697dec5a745db9ac9af648e649.jpeg" type="image/jpeg"><img alt="A speedometer approaching 100 km/h" decoding="async" height="320" src="/assets/images/speed-fd31c1697dec5a745db9ac9af648e649.jpeg" width="416" aria-hidden="true" loading="lazy"></picture><div class="cs-item-text"><h3 class="cs-h3">How to optimize a website's Core Vitals and Page Speed Score<picture class="cs-icon-wrapper"><img alt="arrow" decoding="async" height="374" src="/assets/images/agency-arrow-upper-right.svg" width="413" aria-hidden="true" class="cs-icon"></picture></h3><div class="cs-info"><span class="cs-date"><img alt="calendar" decoding="async" height="374" src="/assets/svgs/calendar.svg" width="413" aria-hidden="true" class="cs-date-icon"> Sep 18, 2021 </span><span class="cs-category">Tutorial</span></div></div></a></li></ul></div></section><section id="reviews-355"><div class="cs-container"><div class="cs-content"><span class="cs-topper">Testimonials</span><h2 class="cs-title">Trusted Web Designer Across The Country</h2><p class="cs-text">We have helped small business owners all over the US and Canada get the website they have been wanting for years. We are invested in our clients just as much as they are in our work. When you work with Oak Harbor Web Designs, you aren’t just working with an agency, you’re working with a dedicated partner.</p></div><ul class="cs-card-group"><li class="cs-item"><img alt="quote icon" decoding="async" height="33" src="/assets/images/quote-blue.svg" width="40" aria-hidden="true" class="cs-quote"><p class="cs-review">Ryan and his team have been awesome to work with. The value they provide for the cost is unbeatable. Ryan is talented and responsive. I highly recommend him for your website needs!</p><span class="cs-name">Michael M.</span> <span class="cs-job">Salt Lake City, UT</span></li><li class="cs-item"><img alt="quote icon" decoding="async" height="33" src="/assets/images/quote-blue.svg" width="40" aria-hidden="true" class="cs-quote"><p class="cs-review">Oak Harbor and Ryan have made the process of building a website a fun, exciting experience. He is very personable and answers your questions within a quick manner. I’ll be using him in the future.</p><span class="cs-name">Clark P.</span> <span class="cs-job">Sacramento, CA</span></li><li class="cs-item"><img alt="quote icon" decoding="async" height="33" src="/assets/images/quote-blue.svg" width="40" aria-hidden="true" class="cs-quote"><p class="cs-review">I approached Ryan with a very specific vision for our new website, and he knocked it out of the park. I was looking for a clean, original design and a faster site. He absolutely delivered.</p><span class="cs-name">Scott S.</span> <span class="cs-job">Atlanta, GA</span></li></ul></div><div class="cs-bubbles" aria-hidden="true"></div></section><div id="popup-2064"><div class="cs-container"><button class="cs-close"><img alt="close" decoding="async" height="16" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Icons/cookie-close.svg" width="16" loading="lazy"></button><div class="cs-content"><div class="cs-flex"><h3 class="cs-h3">Are You A Developer?</h3><p class="cs-text">We made an HTML and CSS template library just for developers to help you build websites faster.</p></div><a class="cs-button-solid cs-accept" href="https://codestitch.app/" target="_blank">Try For Free</a></div></div></div><script>document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("popup-2064");var t=document.querySelector(".cs-close"),c=document.querySelector(".cs-accept");function o(){e.classList.remove("cs-show"),localStorage.setItem("cookiesAccepted","false"),setTimeout(function(){e.style.display="none"},300)}"true"===localStorage.getItem("cookiesAccepted")&&(e.style.display="block",setTimeout(function(){e.classList.add("cs-show")},5e3)),t.addEventListener("click",o),c.addEventListener("click",o),c.addEventListener("click",function(){o()})})</script><section id="cta-1693"><div class="cs-wrapper"><div class="cs-container"><div class="cs-content"><h2 class="cs-title">Ready To Get The Site You Always Wanted?</h2><a class="cs-button-solid cs-secondary" href="/contact">Get Started Today</a></div></div><div class="cs-lights-wrapper" aria-hidden="true"><picture class="cs-lights"><source media="(max-width: 1023px)" srcset="/assets/images/lights-m.svg"><source media="(min-width: 1024px)" srcset="/assets/images/lights.svg"><img alt="graphic" decoding="async" height="132" src="/assets/images/lights-m.svg" width="275" aria-hidden="true" loading="lazy"></picture><div class="cs-flare light1"></div><div class="cs-flare light2"></div><div class="cs-flare light3"></div><div class="cs-flare light4"></div><div class="cs-flare light5"></div><div class="cs-bulb cs-bulb1"></div><div class="cs-bulb cs-bulb2"></div><div class="cs-bulb cs-bulb3"></div><div class="cs-bulb cs-bulb4"></div><div class="cs-bulb cs-bulb5"></div></div></div></section></main><footer id="cs-footer-840"><div class="cs-container"><div class="cs-logo-group"><a class="cs-logo" href="/" aria-label="go back to home"><img alt="logo" decoding="async" height="32" src="/assets/images/logo-white.svg" width="240" aria-hidden="true" class="cs-logo-img" loading="lazy"><div class="neon" aria-hidden="true" aria-label="after dark"><span>A</span> <span>f</span> <span>t</span> <span>e</span> <span>r</span> <span>D</span> <span>a</span> <span>r</span> <span>k</span></div></a><p class="cs-text">We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.</p><a class="cs-button-solid cs-white" href="/contact/">Get Started Today</a></div><div class="cs-ul-wrapper"><span class="cs-header">Quick Links</span><ul class="cs-ul cs-ul-1"><li class="cs-li"><a class="cs-link" href="/">Home</a></li><li class="cs-li"><a class="cs-link" href="/about/">About</a></li><li class="cs-li"><a class="cs-link" href="/reviews/">Reviews</a></li><li class="cs-li"><a class="cs-link" href="/blog/">Blog</a></li><li class="cs-li"><a class="cs-link" href="/web-design/">Web Design</a></li><li class="cs-li"><a class="cs-link" href="/seo-services/">SEO</a></li><li class="cs-li"><a class="cs-link" href="/google-ppc-services/">Google PPC Ads</a></li></ul></div><div class="cs-ul-wrapper"><span class="cs-header">Contact Information</span><ul class="cs-ul"><li class="cs-li"><span class="cs-link" target="_blank"><img alt="clock icon" decoding="async" height="20" src="/assets/images/clock-grey.svg" width="20" aria-hidden="true" class="cs-icon" loading="lazy"> 24/7</span></li><li class="cs-li"><a class="cs-link" href="tel:219-576-2539"><img alt="phone icon" decoding="async" height="20" src="/assets/images/phone-grey.svg" width="20" aria-hidden="true" class="cs-contact-icon" loading="lazy"> (219) 576-2539</a></li><li class="cs-li"><a class="cs-link" href="mailto:ohwdinfo@gmail.com"><img alt="email icon" decoding="async" height="20" src="/assets/images/message-grey.svg" width="20" aria-hidden="true" class="cs-icon" loading="lazy"> ohwdinfo@gmail.com</a></li><li class="cs-li"><span class="cs-link" target="_blank"><img alt="pin icon" decoding="async" height="20" src="/assets/images/pin-grey.svg" width="20" aria-hidden="true" class="cs-icon" loading="lazy"> United States</span></li></ul></div></div><div class="cs-bottom"><span class="cs-credit">© Copyright 2025 <span class="cs-credit-link">Oak Harbor Web Designs</span></span><div class="cs-bottom-links"><a class="cs-bottom-link" href="/privacy-policy/">Privacy Policy</a> <a class="cs-bottom-link" href="/terms-of-service/">Terms Of Use</a></div></div><svg class="cs-footer-swoosh" fill="none" preserveAspectRatio="none" viewbox="0 0 1920 254" xmlns="http://www.w3.org/2000/svg"><path d="M1668.54 58.137c124.52 31.881 204.12 63.173 251.46 85.537V-4H0v254C356.508 169.957 717.072 91.544 986.268 43.36 1255.46-4.822 1443.9.623 1668.54 58.138Z" fill="var(--footerSwish)"/></svg></footer><script defer>document.addEventListener("scroll",e=>{100<=document.documentElement.scrollTop?document.querySelector("body").classList.add("scroll"):document.querySelector("body").classList.remove("scroll")})</script></body></html>Click To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+About Us
+oak harbor
+ryan postell
+Oak Harbor Web
+We Make Websites With Purpose & Intent
+My name is Ryan, I am the owner and lead developer of Oak Harbor Web Designs. I got into programming after my wife had our first child. I was and still am a stay-at-home dad, and I wanted a career that I can do from home and still be there with the kids to watch them grow up. So over the course of two years I taught myself how to code websites the right way by hand and just started calling small businesses to offer my help and have been growing every year since 2019.
+
+What I found was that a lot of small businesses don't have the funds to spend thousands of dollars upfront on a new website. And the ones that did, got taken advantage of and have a terrible website that looks like it was built by someone in a dungeon and haven't seen design trends for the last 10 years. They were in a frustrating spot - they either can't afford a good website, and if they can they don't know who to trust to make something great. So I tweaked my business model to fit their needs. That's how I came up with my $0 down and $175 a month model. It's more manageable for a small business to handle and won't hurt their bank accounts.
+
+Call Us Today
+forest
+Our Working Process
+We Take Care Of Everything
+After a contract is signed we send a small questionnaire about your business and what you offer, then we expand on that content and write the entire site’s content for you, create the design, get approval, then we build. Generally takes 2-3 weeks from start to finish.
+
+Step 1
+Complete Questionnaire
+We send you an email with less than 10 questions about you business, services, what sets you apart, etc and we do all the rest.
+
+Step 2
+Design Approval
+We then do a video screen share showing you the first draft and make any changes you want to make sure you’re 100% satisfied.
+
+Step 3
+Development
+Once approved, we can start coding the site out and setting everything up. We will send a demo link to view before we launch and go live.
+
+In The News
+Featured In CompTIA’s Documentary About Inspiring Stories in Tech
+A screenshot of Ryan Postell's CompTIA interview
+play icon
+Our Team
+Meet The Team Behind Oak Harbor Web Designs
+Every team member has extensive experience, knowledge, and skills in their respective fields that have been honed and perfected over many years. This ensures that every part of your website is done right and by someone who knows those parts inside and out.
+
+ryan postell
+linkedin
+youtube
+Ryan Postell
+Owner, Lead Developer
+alyse garcia
+linkedin
+Alyse Garcia
+Front End Developer, Support
+ethan hawes
+linkedin
+Ethan Hawes
+Developer, Support, Shopify
+Stacey Muscat
+linkedin
+Stacey Muscat
+Front End Developer, Support
+karen maristani
+linkedin
+Karen Maristani
+Copywriter
+adam gingery
+linkedin
+Adam Gingery
+SEO & Google Ads Specialist
+matt barbuzzi
+linkedin
+Matt Barbuzzi
+Backend Developer, Shopify
+walid
+dribbble
+linkedin
+Walid Sayed
+UI/UX Designer
+Testimonials
+Trusted Web Designer Across The Country
+We have helped small business owners all over the US and Canada get the website they have been wanting for years. We are invested in our clients just as much as they are in our work. When you work with Oak Harbor Web Designs, you aren’t just working with an agency, you’re working with a dedicated partner.
+
+quote icon
+I couldn't ask for a better product, all the hard work he puts into he work shows. He's has an awesome way building a website of your choice to the specs of your choice. And he's super friendly and one of the best to work
+
+Ryan Y.
+Goshen, IN
+quote icon
+Worked with Oak Harbor Designs to discuss a possible website development. Super intelligent and highly knowledgeable with the work they offer. I can’t recommend them enough. If you want things done right. This is the place.
+
+Caleb M.
+Oak Harbor, WA
+quote icon
+Ryan was great to work with, always available and created a wonderful website for my business. Couldn't recommend him enough!
+
+David S.
+Fresno, CA
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+FAQ'S
+Frequently Asked Questions
+Frequently Asked Questions
+Browse our FAQ page for answers to everything you would like to know about what we do, what we charge, our process, and how everything works.
+
+Pricing & Payments
+Plans
+SEO
+Websites
+
+How long does the subscription last?
+
+
+What happens if I cancel after the 12 month minimum and want to come back?
+
+
+What happens if I cancel before the 12 months is over?
+
+
+How do you handle late payments?
+
+
+What do you use to take payment and what payment methods do you accept?
+
+
+$100 per additional page, is that one time or monthly?
+
+
+Are there refunds?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Testimonials
+Testimonials
+Trusted Web Designer Across The Country
+We have helped small business owners all over the US and Canada get the website they have been wanting for years. We are invested in our clients just as much as they are in our work. When you work with Oak Harbor Web Designs, you aren’t just working with an agency, you’re working with a dedicated partner.
+
+quote icon
+Ryan and his team have been awesome to work with. The value they provide for the cost is unbeatable. Ryan is talented and responsive. I highly recommend him for your website needs!
+
+Michael M.
+Salt Lake City, UT
+quote icon
+Oak Harbor and Ryan have made the process of building a website a fun, exciting experience. He is very personable and answers your questions within a quick manner. I’ll be using him in the future
+
+Clark P.
+Sacramento, CA
+quote icon
+Ryan and his team have been great to work with. The scope of our project turned out to be a lot bigger than originally anticipated, but they were able to accommodate all of our store's needs. Thanks again!
+
+Michael K.
+Hyattsville, MD
+quote icon
+Ryan was great and really guided us on creating and hosting a website! Highly recommend
+
+Ricki B
+Santa Monica, CA
+quote icon
+Contacted Ryan after seeing multiple forum post about his execution process and website style. Am beyond pleased with the results. Not only was Ryan professional throughout the whole process, but he was precise and thorough creating my business website. He took my ideas and went above and beyond. Would recommend him to anyone!
+
+Rhyne B.
+Houston, TX
+quote icon
+Ryan was able to provide me with some excellent advice about web design. He is meticulous and straight forward, a pleasure to work with.
+
+Jake H.
+Oak Harbor, WA
+quote icon
+Ryan is awesome to work with and did an amazing job with our site!
+
+Erica Y.
+Lexington, KY
+quote icon
+Ryan was great to work with, always available and created a wonderful website for my business. Couldn't recommend him enough!
+
+David S.
+Fresno, CA
+quote icon
+I approached Ryan with a very specific vision for our new website, and he knocked it out of the park. I was looking for a clean, original design and a faster site. He absolutely delivered. Our new site is fantastic, and he has provided great ongoing support as I've requested additional edits. The pricing is also very reasonable. I highly recommend partnering with Ryan.
+
+Scott S.
+Marietta, GA
+quote icon
+Ryan is wonderful to work with! He listened to what I was looking for with my website while giving insight on things to help it pull in more clients! Times when I would request changes be made, he was quick and happy to make said changes. I'm incredibly happy with the decision to go with him!
+
+Makea M.
+Oak Harbor, WA
+quote icon
+Great service! Ryan also gives a helping hand with a lot of patience when you’re not sure what you want. My website design is flawless
+
+Steve O.
+Atlanta, GA
+quote icon
+We were looking for someone to design a new professional website to help draw in more customers. Oak Harbor Web Designs was the answer. We really can’t thank Ryan enough for all the great work he did. He is professional, reliable, and above all else passionate about helping his customers. Thanks to the new website he designed we are now getting significantly more customer contacting us for work.
+
+Zach L.
+Apple Valley, PA
+quote icon
+Ryan is a pleasure to work with. Not only capable, but very responsive and helpful. Would absolutely recommend him for all your web design needs!
+
+Zak S.
+Rohnert Park, CA
+quote icon
+Top notch support and creative and professional services. If I could give 10 stars I would. I am always impressed with the level of service being so personalized, with the output of work being better than any firm I’ve seen. I’ll never go to another service after this experience.
+
+Andrew F.
+Santa Monica, CA
+quote icon
+Ryan is the best to work with. He is always on top of things. Im glad he's on my team.
+
+Chris Whitson
+Oak Harbor, WA
+quote icon
+Ryan did a awesome job on my Web page. I get many calls thanks a lot Ryan.
+
+Les H.
+Oak Harbor, WA
+quote icon
+Ryan helped us create our website that is working fantastically for our needs. He is very kind and a professional man. I totally recommend his work for anyone looking to manage and create their website!
+
+Hilario M.
+Oak Harbor, WA
+quote icon
+I've worked with Ryan on several website projects (music schools, contractors, medical, etc.). He's responsive and flexible. His websites are also extremely fast. I certainly recommend hiring him.
+
+Adam G.
+Perkasie, PA
+quote icon
+Ryan's ethics, coding creativity, knowledge of web trends, and professionalism is unsurpassed. If he doesn't know the answer, he will find it quickly and create solutions for any web design needs. He walked me through the process of everything so that I was able to make an informed decision, saving me from making costly mistakes with other designers I had considered. Plus, he had my new website created and up in 3 weeks. I can't recommend him highly enough.
+
+Michelle C.
+Perkasie, PA
+quote icon
+Oak harbor web designs has done an amazing job with my website. Before Ryan put his hands on it my website was slow and hard to read. He was very easy to communicate with and very knowledgeable. Ryan took my site to a whole nother level. Very please with his work and I highly recommend. If you want to check out his work. Send me a message and I will give you the website. Amazing guy. Great job.
+
+John K.
+Annapolios, MD
+quote icon
+Modern and fresh looking web site designs. I will definitely be recommending Ryan for my future IT customers and web site needs. Thank you for your help and service!
+
+Yuraldy G.
+Oak Harbor, WA
+quote icon
+Worked with Oak Harbor Designs to discuss a possible website development. Super intelligent and highly knowledgeable with the work they offer. I can’t recommend them enough. If you want things done right. This is the place.
+
+Caleb M.
+Lansing, MI
+quote icon
+Does an awesome job!! Has definitely helped me grow my business!
+
+Matt W.
+Oak Harbor, WA
+quote icon
+I couldn't ask for a better product, all the hard work he puts into he work shows. He's has an awesome way building a website of your choice to the specs of your choice. And he's super friendly and one of the best to work with I couldn't ask for anything more. Thank you oak harbor web design.
+
+Ryan Y.
+Goshen, IN
+quote icon
+I worked with Oak Harbor Web Designs to create a website for my children’s clothing business and it was the best experience I could have ever had. I could not say enough good things about the owner.
+
+Denise E.
+Jacksonville, FL
+quote icon
+Very professional with great customer-service skills. His web designs are not only aesthetically pleasing, they are search engine optimized!
+
+Courtney B.
+Oak Harbor, WA
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Web Design
+Professional Web Design & Development Services
+Custom Code - NO Page Builders Or Wordpress
+At Oak Harbor Web Designs, we do things a little differently. Instead of using page builders or Wordpress, we hand write all the code for our sites from top to bottom. This allows us to make very custom designs, have absolutely ZERO bloat or wasted code to slow us down, they load instantly, score perfect marks on Google Page Speed Insights, are more secure and actually impossible to hack, and we don't need to constantly update plugins or WordPress versions to prevent hacking.
+
+Why IT Matters
+Faster load times
+Better conversions
+Better performing ads
+More secure
+Better ranking on Google
+Boosts your Google Business Profile in the Maps Listings
+Better Load times leads to higher conversions
+It's very competitive online, and you need every edge you can get to stand out and overtake your competition. When everyone else is using a page builder and getting poor load times, you could be getting something different - something custom coded and loading instantly. This is important because if your website takes more than 3 seconds to load, you could lose up to 50% of your traffic because they leave before the site can load. They just don't want to wait that long. Our sites load so fast they don't have any chance to leave, allowing us to capture more leads to the site than your old one did.
+
+Better Ads Performance
+The faster your website loads, the better your conversions are for the ads to send them to. And Google prefers websites that load fast. Faster loading websites actually have a lower cost-per-click which can save you hundreds or more a month depending on how much you're spending on ads clicks.
+
+Custom Coded Websites Are More Secure
+WordPress and other builders have lots of vulnerabilities and points of entry into the site that can be compromised. Like with Wordpress, if you aren't constantly updating your plugins and WordPress version then you are increasing the chances of getting hacked every day you don't. Hackers target WordPress more than any other platform because they are easier to get into (especially if you aren't doing your updates!).
+
+With our custom code, we don't have any databases or server side requests being made that hackers can intercept and hijack to insert their own code to redirect a site to a spam site. It's just static HTML and CSS files. There's nothing TO hack. We can leave our sites alone for 10 years and nothing will happen to them. They are as secure as you can get.
+
+Improve your search ranking
+Better load times can improve your ranking on Google in a number of ways. The most common way is by just being faster. If there are two similar sites with similar content and domain authority, Google has stated that the one with the better Page Speed Scores and Core Vitals will win.
+
+The other method is more indirect. When your site loads faster, more people reach it. And the more people you have going to your site can increase your ranking. And by focusing on Google's Core Vitals Metrics we can create a better user experience on the site to keep them on the site with higher session times and navigating the site with more clicks to other pages to learn more. With more traffic, higher session times, and better click through rates, we can improve our Google ranking by showing Google we are solving the users search queries and are experts in our field that visitors find valuable with our carefully written and helpful content.
+
+Boost Your Google Business Profile
+A faster loading website can also add extra boost to your Google Business Profile and help increase your visibility in Maps searches. Couple that with LOTS of 5 star reviews, images, and a full 100% complete profile, you will start seeing more leads coming from that profile than you had before. The more visible we can make your profile there, the more people that reach your site, and that's more people that our site can convert into a lead.
+
+Small Business SEO Specialists
+Web design and SEO go hand in hand. A well-built website will not always be enough to move the needle as much as you'd like, especially in more competitive markets. That's why we have an in-house SEO expert who knows how to rank a website and generate leads.
+
+Forget the buzzwords like "optimize your user experience, submit a site map, optimize your meta tags and descriptions, blah blah blah". Those are all things that EVERY developer should be doing by default. Those aren't SEO services. SEO is an active and engaged process of content creation, backlinking, blogging, and monitoring. If you want to learn more about our small business SEO services, we're happy to set up a call and explain in detail every little thing we do and how this all works.
+
+ryan postell at deception pass bridge
+waves
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+SEO Services
+Small Business SEO Services
+Search engine optimization is more challenging than ever. Whether you run a construction business here in Northwest Indiana, a law firm down in LaFayette, or have a company elsewhere in the United States, we can help. To start generating leads or sales from Google, send us a note.
+
+Who We Can Help With SEO
+Local Service Businesses
+We've helped many contractors significantly scale their businesses through SEO. Foundation repair, painting, custom closets, commercial cleaning, and other business categories all need a strong presence on Google. We help your rank higher in the Google Map Pack and the traditional search engine results page (SERP), and we will be able to track keyword ranking improvements, traffic to your site, and even how many leads you are receiving from search. This makes it easy to measure ROI and invest appropriately.
+
+B2B Companies
+B2B selling involves many touchpoints, you need to add organic search to your list of priority marketing channels. Some b2b companies sell a product or service that people are already searching for online -- this makes the strategy and competitive landscape easier to picture. For instance, corporate retreat planners have an in-demand service, as do companies that sell intelligent document processing software.
+
+But what if you solve a particular problem for companies, but they don't know your solution exists? You can certainly build awareness with top-of-funnel ads on Google, Youtube, LinkedIn, and other platforms, but SEO can be part of this strategy as well.
+
+Through audience research, topical research, and other onboarding processes, we can often create an SEO-driven editorial strategy that will attract readers from your ideal client profile. By adding CTAs to the content, building more awareness, and using that audience for remarketing campaigns, you can start to book calls and make sales.
+
+Education
+Music schools, dance schools, art programs, and other educational institutions can significantly increase leads and enrollment through SEO. Like local service businesses, you may be missing out on 50-100 leads per month by not competing on Google search.
+
+Other Business Types
+We've worked with a huge variety of businesses across the US, and we would be happy to hear from you. From medical clinics to luxury travel companies, we've driven growth for dozens and dozens of businesses.
+
+The SEO Strategy
+The Site's Technical Foundation
+Your website needs to be fast, user-friendly, and free from glaring technical errors. This is a given with a website from Oak Harbor Web Design -- our sites outperform most sites on Wordpress, Webflow, Squarespace, Wix, and other CMS platforms. Our unique method gives us an instant advantage over slower competitors.
+
+We also crawl every site for 404 errors, canonical issues, 301 redirect chains, lack of proper heading structure, and more. We will also optimize the site's schema data, meta titles, meta descriptions, and everything else.
+
+Content Strategy
+Do you have content on your site that can be competitive on Google? We perform intensive keyword research for every new client, and this helps us know which pages we need on the site and how to write them. For local service businesses, we blanket your region with pages that can rank for terms like:
+
+Painting company Hammond, IN
+
+Criminal defense attorney Seattle
+
+Physical therapy Oak Harbor
+
+This network of pages will drive leads for your business.
+
+If you don't offer a local service, we can write, optimize and publish nationally-competitive top-level service pages, or build out an intuitive blog strategy that will generate leads or fill your remarketing strategy.
+
+Above all, our content strategies are based on data, executed with professional writing, and optimized to rank on Google.
+
+Local SEO
+Many of our clients receive a significant number of their leads from the Google Map Pack, thanks to excellent rankings for "near me" search terms. We will audit your Google Business Profile, fill it out with improved information, and audit your business name/address/phone information on web directories across the web. We also track your Google Map Pack rankings specifically, so that we can report on progress and adjust our strategy accordingly.
+
+Backlinking
+You need links from other websites pointing to your website. This has been the case for a long time, but Google gets increasingly picky about what it deems a "high quality link." We use our database of quality business directories, publisher relationships, and intentional outreach to land meaningful backlinks that help our clients rank better on Google.
+
+The SEO Time Frame
+If you have an established online presence, we may be able to attack some quick wins. For instance, if your website is riddled with 404 errors, has backlinks pointing to pages that no longer exist, and has 50 low quality service pages with very little content, we can often correct those issues and start increasing your lead volume in as little as three months.
+
+However, if you are a startup in a competitive business category, it may take six months or longer. This is fine, since SEO is more of an investment rather than a quick transaction (if that's what you need, ask us about Google Ads). But you will need to prepare for months of backlink acquisition and content production before you start to see significant traffic and lead growth.
+
+Get in Touch For More Information About Our SEO Services
+We'd be happy to chat with you, provide a proposal, and point to success stories that relate to your company or business. If you have any questions about our web development, SEO, or Google Ads services, get in touch.
+
+ebeys landing overview
+waves
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Google PPC Ads
+Google PPC Ads Management Services
+At Oak Harbor Web Designs, we specialize in providing comprehensive Google PPC ads management services. Our goal is to maximize your return on investment (ROI) by developing customized strategies that drive relevant traffic and boost conversions.
+
+Why Choose Our PPC Management Services?
+We understand that every business is unique, and our approach reflects that. With our deep understanding of Google Ads, we create tailored campaigns that fit your business needs and budget. Our services are built on the foundation of detailed research, precise targeting, and ongoing optimization.
+
+Our Google PPC Process
+We follow a structured process that ensures the highest performance from your Google Ads campaigns:
+
+Initial consultation to understand your business goals
+Comprehensive keyword research to find high-converting terms
+Ad copy creation that resonates with your target audience
+Targeting optimization to ensure your ads reach the right customers
+Ongoing monitoring and adjustment for continuous improvement
+Key Benefits of Our PPC Management
+When you partner with Oak Harbor Web Designs for Google PPC management, you benefit from:
+
+Increased visibility on Google search results
+Lower cost-per-click (CPC) and higher ROI
+Transparent reporting with actionable insights
+Reduced waste on irrelevant clicks
+Improved conversion rates with optimized landing pages
+Boost Your Business with Expert Google PPC Management
+Our PPC services are designed to help you outperform your competitors and capture more leads. Whether you’re looking to increase sales or build brand awareness, our expert team is ready to guide you through the complexities of Google Ads.
+
+Get Started Today
+Contact Oak Harbor Web Designs today to learn how our Google PPC ads management services can help your business grow. Schedule a free consultation and take the first step toward a successful, high-performing ad campaign.
+
+
+waves
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Google PPC Ads
+Google PPC Ads Management Services
+At Oak Harbor Web Designs, we specialize in providing comprehensive Google PPC ads management services. Our goal is to maximize your return on investment (ROI) by developing customized strategies that drive relevant traffic and boost conversions.
+
+Why Choose Our PPC Management Services?
+We understand that every business is unique, and our approach reflects that. With our deep understanding of Google Ads, we create tailored campaigns that fit your business needs and budget. Our services are built on the foundation of detailed research, precise targeting, and ongoing optimization.
+
+Our Google PPC Process
+We follow a structured process that ensures the highest performance from your Google Ads campaigns:
+
+Initial consultation to understand your business goals
+Comprehensive keyword research to find high-converting terms
+Ad copy creation that resonates with your target audience
+Targeting optimization to ensure your ads reach the right customers
+Ongoing monitoring and adjustment for continuous improvement
+Key Benefits of Our PPC Management
+When you partner with Oak Harbor Web Designs for Google PPC management, you benefit from:
+
+Increased visibility on Google search results
+Lower cost-per-click (CPC) and higher ROI
+Transparent reporting with actionable insights
+Reduced waste on irrelevant clicks
+Improved conversion rates with optimized landing pages
+Boost Your Business with Expert Google PPC Management
+Our PPC services are designed to help you outperform your competitors and capture more leads. Whether you’re looking to increase sales or build brand awareness, our expert team is ready to guide you through the complexities of Google Ads.
+
+Get Started Today
+Contact Oak Harbor Web Designs today to learn how our Google PPC ads management services can help your business grow. Schedule a free consultation and take the first step toward a successful, high-performing ad campaign.
+
+
+waves
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Work With Us
+Trusted Partners
+Scale your marketing agency with Oak Harbor Web Designs
+On top of designing and building sites for our clients, we also work with other marketing and SEO agencies to build their websites as well. With our custom designs, development expertise, and perfect Page Speed Scores we boost the power and performance of any marketing and SEO campaign.
+
+icon
+Mobile First Design
+We build each site starting with the mobile screen sizes first. This allows us to be responsive for every possible screen size by letting content grow into the screen rather than cram it in to smaller screens.
+
+Get Started
+tree graphics
+icon
+Fully Responsive
+All our websites will display perfectly and adapt to any and all screen sizes large and small as well as the inbetweens. With our custom coding, we can adapt to any design with more precision and control.
+
+Get Started
+tree graphics
+icon
+Optimized Page Speed
+Load times are everything today. Luckily, we are experts in optimizing websites for load times and page speed. There's no bloat! Every line of code is written with purpose and intent.
+
+More About Page Speed
+tree graphics
+icon
+Website Maintenance
+We handle all the edits. Your clients can either email us directly or you send us their requests and we take care of everything for you so you can focus more on running your agency.
+
+Get Started
+tree graphics
+icon
+Custom Integrations
+Whatever platforms or CRM you use, as long as they have an API for us to connect to we can integrate your current booking, calendar, or email marketing services in our custom sites.
+
+Get Started
+tree graphics
+icon
+Based In The USA
+We do not hire cheap overseas developers. We are mostly based in the USA with team members in Washington, Texas, Pennsylvania, and the UK and work 100% remote from home.
+
+Get Started
+tree graphics
+Our Process
+We Take Care Of Everything
+You can either refer your client directly to us to manage everything from start to finish as well as post-launch edits and support, or we can instead work directly with you to implement what your client needs.
+
+Step 1
+Complete Questionnaire
+We send a small questionaire about the business, what they do thats unique, all the services they sell, etc. so we can get a good idea of what we want to say on the site.
+
+Step 2
+Design Approval
+Once we have a design we will go over it in a screen share session before making its way to the client so we can make sure it's 100% ready for the reveal.
+
+Step 3
+Development
+After making any edits from the design phase, we will begin to develop the site and all its pages. Once it's ready we will share a demo link to view before going live.
+
+Portfolio
+Some Of The Work We’ve Done Over The Years
+We have worked with clients all over the US and Canada for home services contractors, restaurants, consulting agencies, start ups, dermatologists, doctors, accountants, and more. No matter what your business is, we can build a website that is effective, beautiful, performant, and tailored to your industry.
+
+A computer screen showing a website preview
+Valley Construction Supply
+Valley Construction Supply is the largest privately held construction supply company in Seattle, WA for over 35 years and has been a happy client for over 5 years.
+
+Visit Website
+A computer screen showing a website preview
+Dr. Victoria Chan
+Dr. Victoria Chan is a Naturopathic Doctor based in California who offers a holistic approach to mental health. This was a VERY custom design that came out amazing.
+
+Visit Website
+A computer screen showing a website preview
+Casablanca Bakery
+For Casablanca, we had a much larger scope of work where we built them a fully editable menu with a custom CMS to edit it, and a multi-language toggle.
+
+Visit Website
+100%
+Satisfaction Guaranteed
+100
+Page Speed Scores
+5/5
+Google Reviews
+a screenshot showing perfect Google pagespeed scores
+Our Specialty
+We Build Better Websites That Perform
+We challenge you to find any other agency that gets close to our Page Speed Scores. There are some instances where we can't get a perfect such as adding Google Tag Scripts, API's, E-commerce, Videos, and any custom back-end work. Otherwise our static informational websites always launch with a 98-100/100 Page Speed Score.
+
+iconIf a website takes too long to load, people leave and never actually reach the site.
+iconFast loading websites have better user experience which can improve your rankings.
+iconWe optimize every single image on the site for mobile and desktop.
+Get Started Today
+Testimonials
+Hear From Our White Label Partners
+We work with a number of digital marketing, website design, and SEO agencies across the US and Canada to build them the best sites they ever had from anyone they've ever hired. We know that's a big statement to make, so don't take our word for it, read what some of our partners have to say about our work!
+
+quote icon
+Ryan and his team can make a better website than any marketer, hands down. Our competiton we're making websites that were loading faster than ours and we needed to get an edge over them. Ryan is able to make sites that loaded even faster than my competition and looked amazing.
+
+Adam G.
+Adam Gingery Marketing
+quote icon
+Ryan has been a fantastic partner to work with. We were making Wordpress sites but it wasn't our bread and butter and we just got burnt out from making them. We're so glad we found Ryan and his team who can make a better site in half the time and I can focus on the rest of the business. His work is among the best I've ever seen from a developer.
+
+Matt. B
+L49 Digital
+quote icon
+As an agency owner I have tried to learn to code on my own, outsource my team, and went with other "white label" companies that never delivered what they promised. I found Ryan and have not had to look at any other web development options since. I refer everyone I meet to him. Fast and clean sites with great response times from him and his team. Highly recommend him and his team.
+
+Mike C.
+Search Hero
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Pricing
+Our Pricing
+Pricing Packages For Every Budget
+Get Started
+Lump Sum
+Design And Developmentcheckmark
+$25/mo Hostingcheckmark
+$100 fee Per Page after 5checkmark
++$50/mo Unlimited Edits Add-oncheckmark
++$250 To Add A Blogcheckmark
+24/7 Supportcheckmark
+Lifetime Updatescheckmark
+$3800
++$25/mo Hosting
+Get Started
+Monthly
+Design And Developmentcheckmark
+Includes Hostingcheckmark
+$100 fee Per Page After 5checkmark
++$250 To Add A Blogcheckmark
+Unlimited Editscheckmark
+24/7 Supportcheckmark
+Lifetime Updatescheckmark
+$175
+Per Month
+Get Started
+Ecommerce
+Custom Shopify Storecheckmark
+Configure Any And All Appscheckmark
+Integrated Shippingcheckmark
+Shopify Tutorial Walkthroughcheckmark
+Fully Editable In Shopify CMScheckmark
++$50/mo Unlimited Editscheckmark
+24/7 Supportcheckmark
+$8k
+Starting
+Get Started
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Blog
+wordpress logo
+house
+Ryan Postell
+Sep 27, 2024
+WordPress Bans WP Engine And Impacts Millions Of Websites
+Learn about the recent conflict between WordPress.org and WP Engine, why WP Engine was banned from accessing key resources, and what this means for the future of the WordPress ecosystem.
+
+Continue Reading
+A dark night
+house
+Ryan Postell
+Sep 14, 2024
+How to add dark mode to your website? Here is the code you need!
+Adding dark mode to your site is as easy as copy and pasting. In this article I give you the code you need to add dark mode to any website and how to start adding dark mode styles.
+
+Continue Reading
+A speedometer approaching 100 km/h
+house
+Ryan Postell
+Sep 18, 2021
+How to optimize a website's Core Vitals and Page Speed Score
+Google's new Core Vitals metrics are changing how sites get ranked based on and optimized mobile experience. I will show you everything you need to know about how to satisfy these new metrics and get 95+ scores on speed and performance for hand made HTML and CSS websites. These can also apply to any website regardless on how it's built.
+
+Continue Reading
+A lightbulb in a thought bubble drawn on a whiteboard
+house
+Ryan Postell
+Apr 19, 2021
+How to design a website for beginners
+In this article I discuss how to create a repeatable process for web design that you can use for each new site. This is for everyone who ever just stared into their screen wondering how the heck they start a website design....
+
+Continue Reading
+A laptop next to a collection of mobile devices
+house
+Ryan Postell
+Apr 10, 2021
+How to build a mobile first and responsive website from scratch in html and css.
+If you’re going to build a website now a days, your number one focus should be making sure it’s responsive and adaptable to all screen sizes. This is because Google has made announcements that all websites that are responsive will rank better because of better load times, better usability, and will be preferred in mobile searches....
+
+Continue Reading
+Lines of code on a computer
+house
+Ryan Postell
+Mar 7, 2021
+What is the difference between hand coded websites and Wordpress sites?
+What makes the websites I build special and unique compared to using a page builder like Wordpress? It all comes down to how they are made, and how that affects load times, user retention, and your search rankings...
+
+Continue Reading
+Red and white christmas cards
+house
+Ryan Postell
+Dec 25, 2020
+Christmas Yearly Recap
+I am happy to say that this year I have lots of holiday cards to send my clients! When I opened for business in the middle of 2019 I only had 3 Christmas cards to send. But at the end of 2020 I now have 27 to mail out...
+
+Continue Reading
+Featured Posts
+wordpress logo
+WordPress Bans WP Engine And Impacts Millions Of Websites
+Sep 27, 2024
+A dark night
+How to add dark mode to your website? Here is the code you need!
+Sep 14, 2024
+A laptop next to a collection of mobile devices
+How to build a mobile first and responsive website from scratch in html and css.
+Apr 10, 2021
+codestitch logo
+Are You A Developer? Try Out Our HTML & CSS Template Library
+Visit Codestitch
+Ready To Get The Site You Always Wanted?
+Get Started Today
+graphic
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of UseClick To Skip To Main Content
+logologo
+Home
+About Us dropdown icon
+Services dropdown icon
+Top Locations dropdown icon
+Pricing
+Blog
+Contact
+Get Started
+moonsun
+Contact Us
+Contact Us
+Get in Touch
+Send us an email and let us know everything you want out of a new site. We respond to everyone within 24 hours of contacting us. Or give us a call and reach us immediately for a chat. If we are unavailable we will call back same day.
+
+phone icon
+Phone
+(219) 576-2539
+address icon
+Email
+Click To Email
+address icon
+Areas Served
+USA & Canada
+Make Appointment
+Name
+Name
+Email
+Email
+Phone
+Phone
+Message
+Write message...
+
+Send Message
+icon
+logo
+We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.
+
+Get Started Today
+Quick Links
+Home
+About
+Reviews
+Blog
+Web Design
+SEO
+Google PPC Ads
+Contact Information
+clock icon24/7
+phone icon(219) 576-2539
+email iconohwdinfo@gmail.com
+pin iconUnited States
+© Copyright 2025 Oak Harbor Web Designs
+Privacy Policy
+Terms Of Use
+
+you ahve to write a file for cursor app to code the whole thing from A to Z with the business model etc . 
+tech used : Sécurité
+
+HSTS
+Divers
+
+PWA
+
+Open Graph
+CDN
+
+DigitalOcean Spaces
+
+Netlify
+Régie publicitaire
+
+Reddit Ads
+PaaS
+
+Netlify
+IaaS
+
+DigitalOcean Spaces 

@@ -1,0 +1,790 @@
+// Variables
+@primary-color: #2563eb;
+@secondary-color: #1e40af;
+@text-color: #1f2937;
+@background-color: #ffffff;
+@dark-text-color: #f3f4f6;
+@dark-background-color: #111827;
+
+// Mixins
+.flex-center() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// Base styles
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  color: @text-color;
+  background-color: @background-color;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+// Dark mode
+body.dark-mode {
+  color: @dark-text-color;
+  background-color: @dark-background-color;
+}
+
+// Header & Navigation
+header {
+  background-color: @background-color;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: @primary-color;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+
+  a {
+    color: @text-color;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+
+    &:hover {
+      color: @primary-color;
+    }
+  }
+}
+
+// Theme toggle
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  font-size: 1.2rem;
+}
+
+// Main content
+main {
+  margin-top: 80px;
+  min-height: calc(100vh - 80px - 300px);
+  padding: 2rem;
+}
+
+// Hero section
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: linear-gradient(to right, @primary-color, @secondary-color);
+  color: white;
+  margin: -2rem -2rem 2rem -2rem;
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
+
+// Pricing section
+.pricing {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+
+  .pricing-card {
+    background: @background-color;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+
+    h2 {
+      color: @primary-color;
+      margin-bottom: 1rem;
+    }
+
+    .price {
+      font-size: 2.5rem;
+      font-weight: bold;
+      margin: 1rem 0;
+    }
+
+    .features {
+      list-style: none;
+      margin: 2rem 0;
+
+      li {
+        margin: 0.5rem 0;
+      }
+    }
+
+    .cta-button {
+      display: inline-block;
+      padding: 1rem 2rem;
+      background-color: @primary-color;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s;
+
+      &:hover {
+        background-color: @secondary-color;
+      }
+    }
+  }
+}
+
+// Footer
+footer {
+  background-color: @background-color;
+  padding: 4rem 2rem 2rem;
+  margin-top: 4rem;
+
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+  }
+
+  .footer-section {
+    h3 {
+      color: @primary-color;
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      list-style: none;
+
+      li {
+        margin: 0.5rem 0;
+
+        a {
+          color: @text-color;
+          text-decoration: none;
+
+          &:hover {
+            color: @primary-color;
+          }
+        }
+      }
+    }
+  }
+
+  .footer-bottom {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
+
+// Portfolio styles
+.portfolio-hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, @primary-color, @secondary-color);
+    color: white;
+    margin: -2rem -2rem 2rem -2rem;
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.portfolio-item {
+    background: @background-color;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+
+    &:hover {
+        transform: translateY(-5px);
+    }
+}
+
+.portfolio-image {
+    position: relative;
+    padding-top: 60%;
+    overflow: hidden;
+
+    img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+.portfolio-info {
+    padding: 1.5rem;
+
+    h3 {
+        color: @primary-color;
+        margin-bottom: 0.5rem;
+    }
+
+    .category {
+        color: @text-color;
+        opacity: 0.7;
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        margin-bottom: 1.5rem;
+    }
+}
+
+.portfolio-stats {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 1rem;
+
+    .stat {
+        text-align: center;
+
+        .stat-value {
+            display: block;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: @primary-color;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: @text-color;
+            opacity: 0.7;
+        }
+    }
+}
+
+.portfolio-features {
+    padding: 4rem 0;
+    background: #f8fafc;
+
+    .features-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+
+    .feature {
+        text-align: center;
+        padding: 2rem;
+        background: @background-color;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+        h3 {
+            color: @primary-color;
+            margin-bottom: 1rem;
+        }
+    }
+}
+
+// About page styles
+.about-hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, @primary-color, @secondary-color);
+    color: white;
+    margin: -2rem -2rem 2rem -2rem;
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    margin: 4rem 0;
+
+    @media (max-width: 768px) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.about-text {
+    h2 {
+        color: @primary-color;
+        margin-bottom: 1.5rem;
+    }
+
+    p {
+        margin-bottom: 2rem;
+    }
+}
+
+.about-image {
+    .city-image {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+}
+
+.values-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.value-card {
+    text-align: center;
+    padding: 2rem;
+    background: @background-color;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+    h3 {
+        color: @primary-color;
+        margin-bottom: 1rem;
+    }
+}
+
+.team-member {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 2rem;
+    margin: 2rem 0;
+    padding: 2rem;
+    background: @background-color;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+    @media (max-width: 768px) {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .profile-image {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+
+    .member-info {
+        h3 {
+            color: @primary-color;
+            margin-bottom: 0.5rem;
+        }
+
+        .role {
+            color: @text-color;
+            opacity: 0.7;
+            margin-bottom: 1rem;
+        }
+    }
+}
+
+// Contact page styles
+.contact-hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, @primary-color, @secondary-color);
+    color: white;
+    margin: -2rem -2rem 2rem -2rem;
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    margin: 4rem 0;
+
+    @media (max-width: 768px) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.contact-form {
+    h2 {
+        color: @primary-color;
+        margin-bottom: 2rem;
+    }
+
+    .form-group {
+        margin-bottom: 1.5rem;
+
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            color: @text-color;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 4px;
+            font-size: 1rem;
+
+            &:focus {
+                outline: none;
+                border-color: @primary-color;
+            }
+        }
+    }
+
+    .submit-button {
+        display: inline-block;
+        padding: 1rem 2rem;
+        background-color: @primary-color;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+
+        &:hover {
+            background-color: @secondary-color;
+        }
+    }
+}
+
+.contact-info {
+    h2 {
+        color: @primary-color;
+        margin-bottom: 2rem;
+    }
+
+    .info-item {
+        margin-bottom: 2rem;
+
+        h3 {
+            color: @text-color;
+            margin-bottom: 0.5rem;
+        }
+    }
+
+    .map-container {
+        margin-top: 2rem;
+        border-radius: 8px;
+        overflow: hidden;
+    }
+}
+
+// FAQ page styles
+.faq-hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, @primary-color, @secondary-color);
+    color: white;
+    margin: -2rem -2rem 2rem -2rem;
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.faq-categories {
+    margin: 4rem 0;
+}
+
+.faq-category {
+    margin-bottom: 3rem;
+
+    h2 {
+        color: @primary-color;
+        margin-bottom: 2rem;
+    }
+}
+
+.faq-items {
+    .faq-item {
+        margin-bottom: 2rem;
+        padding: 1.5rem;
+        background: @background-color;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+        h3 {
+            color: @text-color;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            color: @text-color;
+            opacity: 0.8;
+        }
+    }
+}
+
+// Legal pages styles
+.legal-content, .privacy-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+
+    h1 {
+        color: @primary-color;
+        margin-bottom: 3rem;
+        text-align: center;
+    }
+}
+
+.legal-section, .privacy-section {
+    margin-bottom: 3rem;
+
+    h2 {
+        color: @primary-color;
+        margin-bottom: 1.5rem;
+    }
+
+    p {
+        margin-bottom: 1rem;
+    }
+
+    ul {
+        margin-bottom: 1rem;
+        padding-left: 1.5rem;
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+    }
+}
+
+// Pricing page styles
+.pricing-hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, @primary-color, @secondary-color);
+    color: white;
+    margin: -2rem -2rem 2rem -2rem;
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 4rem 0;
+}
+
+.pricing-card {
+    background: @background-color;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+
+    &.featured {
+        border: 2px solid @primary-color;
+        transform: scale(1.05);
+
+        @media (max-width: 768px) {
+            transform: none;
+        }
+    }
+
+    &:hover {
+        transform: translateY(-5px);
+    }
+}
+
+.pricing-header {
+    text-align: center;
+    margin-bottom: 2rem;
+
+    h2 {
+        color: @primary-color;
+        margin-bottom: 1rem;
+    }
+
+    .price {
+        .amount {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: @text-color;
+        }
+
+        .period {
+            font-size: 1.2rem;
+            color: @text-color;
+            opacity: 0.7;
+        }
+    }
+}
+
+.pricing-features {
+    margin: 2rem 0;
+
+    ul {
+        list-style: none;
+        padding: 0;
+
+        li {
+            padding: 0.5rem 0;
+            position: relative;
+            padding-left: 1.5rem;
+
+            &:before {
+                content: "✓";
+                color: @primary-color;
+                position: absolute;
+                left: 0;
+            }
+        }
+    }
+}
+
+.pricing-footer {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+
+    .commitment, .note {
+        color: @text-color;
+        opacity: 0.7;
+        margin-bottom: 1rem;
+    }
+
+    .cta-button {
+        &.secondary {
+            background-color: transparent;
+            border: 2px solid @primary-color;
+            color: @primary-color;
+
+            &:hover {
+                background-color: @primary-color;
+                color: white;
+            }
+        }
+    }
+}
+
+.pricing-faq {
+    padding: 4rem 0;
+    background: #f8fafc;
+
+    h2 {
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .faq-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 2rem;
+    }
+
+    .faq-item {
+        background: @background-color;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+        h3 {
+            color: @primary-color;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            color: @text-color;
+            opacity: 0.8;
+        }
+    }
+} 
