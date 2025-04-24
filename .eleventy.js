@@ -1,8 +1,15 @@
+const moment = require('moment');
+
 module.exports = function(eleventyConfig) {
   // Copy static assets
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
+
+  // Add date filter
+  eleventyConfig.addFilter("date", function(date, format) {
+    return moment(date).format(format);
+  });
 
   // Set input and output directories
   return {
